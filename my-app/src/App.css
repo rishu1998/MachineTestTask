@@ -1,0 +1,22 @@
+*,
+html,
+body {
+  margin: 0;
+}
+#employees tr {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#employees th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: black;
+}
+.remove-btn {
+  color: red;
+}
+#detailsContainer {
+  margin-bottom: 50px;
+  background-color: rgb(236, 236, 246);
+}
